@@ -8,12 +8,11 @@
     font-size: 36px;
 }
 
-.cooler{
-    font-size: 24px;
-}
-
 #n4{
     background-color: rgb(124, 252, 0);
-    font-size: 24px;
     font-weight: bold;
+}
+
+.bigger-font-size{
+    font-size: 24px;
 }
