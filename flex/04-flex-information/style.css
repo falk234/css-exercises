@@ -15,8 +15,8 @@ img {
 
 .plants{
   display: flex;
-  gap: 40px;
-  margin: 20px 75px;
+  gap: 52px;
+  margin: 32px 75px;
 }
 
 .plants > div {
