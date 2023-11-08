@@ -13,16 +13,17 @@ img {
   text-align: center;
 }
 
-.plants{
+.plant-container{
   display: flex;
   gap: 52px;
   margin: 32px 75px;
 }
 
-.plants > div {
+.plant{
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
+  max-width: 200px;
 }
 
 .text{
