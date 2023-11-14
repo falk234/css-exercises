@@ -4,7 +4,6 @@ body {
   min-height: 100vh;
   display: flex;
   flex-direction: column;
-  /* justify-content:space-between; */
 }
 
 .header,
@@ -44,13 +43,14 @@ body {
   box-sizing: border-box;
   padding: 10px;
   flex: 0 0 auto;
+  /* Same meaning:
+  flex-shrink: 0; */
 }
 
 .text_boxes{
   display: flex;
   flex-wrap: wrap;
   padding: 30px;
-
 }
 
 .card {
